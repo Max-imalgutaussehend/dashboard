@@ -1,0 +1,8 @@
+{
+  "title": "Dashboard",
+  "briefing": "Hermes hat noch nichts eingetragen. Sobald der erste Lauf durch ist, steht hier die Tageszusammenfassung.",
+  "widgets": [
+    { "id": "todo", "type": "todo", "title": "Aufgaben", "items": [] },
+    { "id": "reminders", "type": "reminders", "title": "Erinnerungen", "items": [] }
+  ]
+}
